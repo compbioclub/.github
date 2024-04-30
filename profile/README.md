@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to the CompBioClub - the Computational Biology Chen lab at CityUHK
+
 <!--
 
 **Here are some ideas to get you started:**
