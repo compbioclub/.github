@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the [CompBioClub](compbioclub.github.io) - the Computational Biology Chen Lab at CityUHK
+Welcome to the [CompBioClub](www.compbioclub.github.io) - the Computational Biology Chen Lab at CityUHK
 
 <!--
 
